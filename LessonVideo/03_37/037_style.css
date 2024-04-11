@@ -1,0 +1,27 @@
+button {
+    width: 80px;
+    height: 70px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: lightgoldenrodyellow;
+    color: black;
+    cursor: pointer;
+    outline: none;
+}
+
+.blue {
+    background-color: deepskyblue;
+}
+
+.red {
+    background-color: red;
+}
+
+.some {
+    border: solid 3px black;
+}
+
+.btn-block {
+    background-color: lavender;
+}

@@ -1,0 +1,37 @@
+.box {
+    box-sizing: border-box;
+    width: 400px;
+    height: 350px;
+    overflow: scroll;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: lightgrey;
+
+}
+
+button {
+    /* width: 80px;
+     height: 70px;
+     margin-top: 10px;
+     border: none;
+     border-radius: 8px;
+     background-color: lightgoldenrodyellow;
+     color: black;
+     cursor: pointer;
+     outline: none;*/
+
+    width: 100px;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: lightblue;
+    font-family: Consolas;
+    font-size: medium;
+    font-style: inherit;
+    font-weight: normal;
+    color: darkblue;
+    border-color: cornflowerblue;
+}
